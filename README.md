@@ -1,2 +1,3 @@
-# essential-armada
-Our own spin on the Essential Cardano list
+# Armada Alliance Resource Index
+
+This is going to be our Armada Alliance focused take on essentail Cardano list essentially.

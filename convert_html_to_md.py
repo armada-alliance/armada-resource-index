@@ -10,8 +10,6 @@ html_file.close()
 converted_html_md = markdownify.markdownify(html_string, heading_style='atx')
 
 # write markdown to file
-markdown_file = open('markdown_file.md', 'w')
-markdown_file.write(converted_html_md)
+markdown_file = open('essential-armada.md', 'w')
+markdown_file.write(converted_html_md+' ')
 markdown_file.close()
-
-
